@@ -1,16 +1,3 @@
----
-title: 简介
-date: 2024-01-31 02:10:58
-permalink: /pages/a205d2/
-categories:
-  - ShiftAndF
-tags:
-  -
-author:
-  name: 沙酱紫漏
-  link: https://github.com/SandTripper
----
-
 ## 一、简介
 
 该插件监听玩家的shift+f事件，来执行相应的指令，通常是打开菜单
