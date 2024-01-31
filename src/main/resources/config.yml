@@ -1,0 +1,15 @@
+# 插件作者 沙酱紫漏
+# 插件文档 https://plugin.sandtripper.cn
+
+# 要执行的命令，支持 PlaceholderAPI 变量
+# 示例
+#commands:
+#  - 'c:example1' 以控制台身份执行example1命令(无需加/)
+#  - 'p:example2' 以玩家身份执行example1命令(无需加/)
+# 如果想设置成空，则需要 commands: []
+commands:
+  - 'c:example1'
+  - 'p:example2'
+
+#请勿修改
+version: 1.0
