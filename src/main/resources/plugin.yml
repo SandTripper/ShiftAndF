@@ -2,7 +2,7 @@ name: ShiftAndF
 version: '${project.version}'
 softdepend: [ PlaceholderAPI ]
 main: cn.sandtripper.minecraft.shiftandf.ShiftAndF
-api-version: '1.12'
+api-version:
 authors: [ '沙酱紫漏' ]
 description: Shift+F bind commands
 commands:
